@@ -69,7 +69,7 @@ export const webPortfolio = [
     },
         {
         id: 7,
-        title: "Portfolio Website V2 - React & Material UI V1",
+        title: "Portfolio Website - React & Material UI V2",
         link: 'https://github.com/KhalidAlghamdi8/khalidalghamdi',
     },
 

@@ -6,7 +6,7 @@
   cursor: pointer;
 
   &.active {
-    background-color: navajowhite;
-    color: white;
+    background:rgba(255, 255, 255, .25);
+    color: gold;
   }
 }
