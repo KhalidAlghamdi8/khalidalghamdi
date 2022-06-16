@@ -70,7 +70,7 @@ export const webPortfolio = [
         {
         id: 7,
         title: "Portfolio Website V2 - React & Material UI V1",
-        link: 'https://khalid-alghamdi.herokuapp.com/',
+        link: 'https://github.com/KhalidAlghamdi8/khalidalghamdi',
     },
 
 ];
