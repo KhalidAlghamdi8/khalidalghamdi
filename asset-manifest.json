@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/khalidalghamdi/static/css/main.80db7a81.css",
-    "main.js": "/khalidalghamdi/static/js/main.f1387b13.js",
+    "main.css": "/khalidalghamdi/static/css/main.e48f5f9f.css",
+    "main.js": "/khalidalghamdi/static/js/main.79fabca0.js",
     "static/media/bg-1.png": "/khalidalghamdi/static/media/bg-1.15367e2c2563c0360b1a.png",
     "index.html": "/khalidalghamdi/index.html",
-    "main.80db7a81.css.map": "/khalidalghamdi/static/css/main.80db7a81.css.map",
-    "main.f1387b13.js.map": "/khalidalghamdi/static/js/main.f1387b13.js.map"
+    "main.e48f5f9f.css.map": "/khalidalghamdi/static/css/main.e48f5f9f.css.map",
+    "main.79fabca0.js.map": "/khalidalghamdi/static/js/main.79fabca0.js.map"
   },
   "entrypoints": [
-    "static/css/main.80db7a81.css",
-    "static/js/main.f1387b13.js"
+    "static/css/main.e48f5f9f.css",
+    "static/js/main.79fabca0.js"
   ]
 }
