@@ -67,13 +67,19 @@ export const webPortfolio = [
         title: "MERN Stack - Student Create & Show & Delete",
         link: 'https://github.com/KhalidAlghamdi8/Smpile-MERN-stack',
     },
+        {
+        id: 7,
+        title: "Portfolio Website V2 - React & Material UI V1",
+        link: 'https://khalid-alghamdi.herokuapp.com/',
+    },
+
 ];
 
 export const apisPortfolio = [
     {
         id: 1,
         title: "FastAPI",
-        link: "https://github.com/KhalidAlghamdi8/fastapi",
+        link: "https://github.com/KhalidAlghamdi8/khalidalghamdi",
     },
 ];
 
