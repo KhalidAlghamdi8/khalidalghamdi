@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/khalidalghamdi/static/css/main.80db7a81.css",
+    "main.js": "/khalidalghamdi/static/js/main.ace023c3.js",
+    "static/media/bg-1.png": "/khalidalghamdi/static/media/bg-1.15367e2c2563c0360b1a.png",
+    "index.html": "/khalidalghamdi/index.html",
+    "main.80db7a81.css.map": "/khalidalghamdi/static/css/main.80db7a81.css.map",
+    "main.ace023c3.js.map": "/khalidalghamdi/static/js/main.ace023c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80db7a81.css",
+    "static/js/main.ace023c3.js"
+  ]
+}
